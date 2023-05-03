@@ -1,0 +1,107 @@
+.div-container{
+    background-color: white;
+    
+    
+}
+.navigacia{
+     display: flex;
+     gap: 30px;
+     padding-top: 60px;
+     padding-left: 100px;
+}
+.icon-box{
+    display: flex;
+    gap: 30px;
+    padding-left: 70%;
+    padding-bottom: 50px;
+    width: 23px;
+    height: 23px;
+}
+.div-container{
+  width: 1248px;
+  height: 512px;
+  background: #C1DCDC;
+  border-radius: 24px;
+  position: relative;
+}
+.container1{
+    width: 512px;
+height: 128px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 64px;
+/* or 100% */
+color: #000000;
+/* Inside auto layout */
+flex: none;
+margin-left: 40px;
+}
+.p1{
+    width: 64px;
+    height: 48px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+color: #1E1E1E;
+margin-top: 30px;
+margin-left: 50px;
+}
+.p2{
+    width: 122px;
+    height: 27px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #1E1E1E;
+    margin-left: 50px;
+}
+.img4{
+    margin-top: 30px;
+}
+.p3{
+    width: 76px;
+    height: 48px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    color: #1E1E1E;
+   
+}
+.div-class{
+    display: flex;
+    gap: 60px;
+}
+.button{
+    width: 449px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    flex: none;
+    order: 1;
+    margin-left: 30px;
+}
+.img1{
+    position: absolute;
+    margin-left: 480px ;
+}
+.img2{
+    margin-left: 1050px;
+    position: absolute;
+    top: 20px;
+    
+}
+.img3{
+    position: absolute;
+    top:20px;
+    margin-left: 670px;
+}
